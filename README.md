@@ -13,3 +13,9 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```bash
+   https://github.com/mohasaket/useStateExample.git
+Navigate into the project directory:
+
+
+### npm install
+### npm run dev
