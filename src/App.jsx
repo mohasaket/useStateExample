@@ -3,6 +3,8 @@ import InitializingStateArray from "./InitializingStateArray";
 import InitializingStateBoolian from "./initializingStateBoolian";
 import InitializingStateNumber from "./initializingStateNumber";
 import InitializingStateString from "./initializingStateString";
+import InitializingStateNestedArray from "./InitializingStateNestedArray";
+import InitializingStateobject from "./InitializingStateobject";
 function App() {
   return (
     <div>
@@ -19,7 +21,9 @@ function App() {
       <h3>+++++++Array+++++</h3>
       <InitializingStateArray />
       <h3>+++++++nested Array+++++</h3>
-      
+      <InitializingStateNestedArray />
+      <h3>+++++++object+++++</h3>
+      <InitializingStateobject />
     </div>
   );
 }
