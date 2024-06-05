@@ -19,3 +19,6 @@ Navigate into the project directory:
 
 ### npm install
 ### npm run dev
+
+# live code 
+https://codesandbox.io/p/github/mohasaket/useStateExample/draft/zealous-mahavira?file=%2Fsrc%2FInitializingStateobject.jsx&workspaceId=52ef4321-ed71-4945-b99f-fbc64b3c7471
