@@ -40,7 +40,7 @@ function InitializingStateNestedArray() {
           onChange={handleSubItemChange} 
           placeholder="Add a sub-item..."
         />
-        <button type="submit">Add Item</button>
+        <button type="submit">اضافه کردن آیتم</button>
       </form>
       <ul>
         {nestedItems.map((item, index) => (
